@@ -33,9 +33,9 @@ List and describe the key features of your web design project. Highlight the asp
 
 Include a link or embedded preview showcasing your web design project in action. This could be a live demo, screenshots, or a video demonstration.
 
-[Live Demo](#) <!-- Replace with your demo link -->
+[Live Demo](https://growthsoln.netlify.app/) <!-- Replace with your demo link -->
 
-![Project Screenshots](screenshots/screenshot.png) <!-- Include relevant screenshots -->
+![Project Screenshots](#) <!-- Include relevant screenshots -->
 
 ## Installation
 
